@@ -1,0 +1,9 @@
+-IE:\matlab_code\Copter_Plane_p_20200821\to_sl
+-I"D:\Program Files\Polyspace\R2020a\toolbox\rtw\targets\pil\c"
+-IE:\matlab_code\Copter_Plane_p_20200821\to_sl\Copter_Plane_h2g_4_and_1_ert_rtw\coderassumptions
+-IE:\matlab_code\Copter_Plane_p_20200821\to_sl\Copter_Plane_h2g_4_and_1_ert_rtw
+-I"D:\Program Files\Polyspace\R2020a\extern\include"
+-I"D:\Program Files\Polyspace\R2020a\simulink\include"
+-I"D:\Program Files\Polyspace\R2020a\rtw\c\src"
+-I"D:\Program Files\Polyspace\R2020a\rtw\c\src\ext_mode\common"
+-I"D:\Program Files\Polyspace\R2020a\rtw\c\ert"
